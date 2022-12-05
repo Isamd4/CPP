@@ -1,0 +1,4 @@
+runtime is cumulative of main - the func7
+runtime after perfect parallelization of f7 will be X
+
+the efficiency is cumulative of main / X
